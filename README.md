@@ -1,2 +1,4 @@
-# git-test
-Premier Test Git
+# Test Git
+
+Nous travaillons sur les branches de Git !
+
